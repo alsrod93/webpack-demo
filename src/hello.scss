@@ -1,0 +1,13 @@
+body{
+  background: peachpuff;
+
+  div{
+    margin: 2rem;
+    padding: 1rem;
+    border: 1px solid mediumpurple;
+
+    &.active {
+      font-size: 3rem;
+    }
+  }
+}
